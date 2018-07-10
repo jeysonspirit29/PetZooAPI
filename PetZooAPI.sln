@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetZooAPI", "PetZooAPI\PetZooAPI.csproj", "{912FA722-3C35-4F33-B508-4D4A9207276E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{B8EB1953-0708-4320-824B-6E9E743FE5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{5E2C36C3-3481-4BAB-8F89-4214B791AF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912FA722-3C35-4F33-B508-4D4A9207276E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912FA722-3C35-4F33-B508-4D4A9207276E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912FA722-3C35-4F33-B508-4D4A9207276E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912FA722-3C35-4F33-B508-4D4A9207276E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EB1953-0708-4320-824B-6E9E743FE5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EB1953-0708-4320-824B-6E9E743FE5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EB1953-0708-4320-824B-6E9E743FE5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EB1953-0708-4320-824B-6E9E743FE5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2C36C3-3481-4BAB-8F89-4214B791AF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2C36C3-3481-4BAB-8F89-4214B791AF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2C36C3-3481-4BAB-8F89-4214B791AF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2C36C3-3481-4BAB-8F89-4214B791AF88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167C64C6-2C74-457D-9767-A6C6BB83B5B3}
+	EndGlobalSection
+EndGlobal
